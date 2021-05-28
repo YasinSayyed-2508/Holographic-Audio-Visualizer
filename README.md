@@ -2,7 +2,6 @@
 
 Holographic audio visualizer that plays Soundcloud playlists and animates graphics in realtime with the music. The visualizer can be controlled with hand gestures using a motion control board (powered by a Raspberry Pi).
 
-[Original video](https://youtu.be/MrgGXQvAuR4)
 
 ## Setup
 
